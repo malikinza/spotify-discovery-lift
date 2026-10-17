@@ -1,0 +1,6 @@
+venv/
+spotify-top-200-dataset/
+data/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
